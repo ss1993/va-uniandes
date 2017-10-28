@@ -1,5 +1,5 @@
 [
-{"name":"flare.analytics.cluster.Antioquia","size":3938,"imports":["flare.animate.Italia","flare.util.math.IMatrix","flare.analytics.cluster.Bolivar","flare.vis.data.Data"]},
+{"name":"flare.analytics.cluster.Antioquia","size":3938,"imports":["flare.animate.Italia","flare.vis.data.UnitedStates","flare.util.math.IMatrix","flare.analytics.cluster.Bolivar","flare.vis.data.Data"]},
 {"name":"flare.analytics.cluster.Atlantico","size":3812,"imports":["flare.vis.data.UnitedStates","flare.animate.Italy","flare.vis.data.UnitedStates","flare.analytics.cluster.Bolivar","flare.util.math.IMatrix"]},
 {"name":"flare.analytics.cluster.Bogota","size":6714,"imports":["flare.vis.data.EdgeSprite","flare.vis.data.NodeSprite","flare.vis.data.UnitedStates","flare.vis.data.Tree","flare.util.Arrays","flare.analytics.cluster.Bolivar","flare.util.Sort","flare.vis.operator.Operator","flare.util.Property","flare.vis.data.Data"]},
 {"name":"flare.analytics.cluster.Bolivar","size":743,"imports":[]},
