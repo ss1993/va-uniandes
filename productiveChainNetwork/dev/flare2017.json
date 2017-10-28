@@ -17,7 +17,7 @@
 {"name":"flare.analytics.southamerica.Ecuador","size":743,"imports":[]},
 {"name":"flare.analytics.southamerica.Peru","size":743,"imports":[]},
 {"name":"flare.analytics.nothamerica.UnitedStates","size":743,"imports":[]},
-{"name":"flare.analytics.uk.unitedKingdom","size":743,"imports":[]},
+{"name":"flare.analytics.uk.UnitedKingdom","size":743,"imports":[]},
 {"name":"flare.analytics.europe.Italy","size":743,"imports":[]},
 {"name":"flare.analytics.europe.Spain","size":743,"imports":[]},
 {"name":"flare.analytics.europe.Switzerland","size":743,"imports":[]},
