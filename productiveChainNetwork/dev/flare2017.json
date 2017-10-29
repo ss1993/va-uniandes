@@ -15,6 +15,7 @@
 {"name":"flare.colombia.Tolima","size":7,"imports":[]},
 {"name":"flare.colombia.Valle","size":92,"imports":["flare.southAmerica.Peru","flare.UnitedKinddom.UnitedKinddom"]},
 {"name":"flare.colombia.ZFP_Eje_Cafetero","size":743,"imports":[]},
+{"name":"flare.ocenania.Australia","size":4022,"imports":["flare.colombia.Antioquia","flare.colombia.Bogota","flare.colombia.Caldas","flare.colombia.Cauca","flare.colombia.Cundinamarca","flare.colombia.Huila","flare.colombia.Magdalena","flare.colombia.Narinio","flare.colombia.Quindio","flare.colombia.Risaralda","flare.colombia.Santander","flare.colombia.Tolima","flare.colombia.Valle"]},
 {"name":"flare.MidleEast.Saudi_Arabic","size":94,"imports":["flare.colombia.Quindio","flare.colombia.Risaralda","flare.colombia.Santander","flare.colombia.Valle"]},
 {"name":"flare.MidleEast.Libano","size":11,"imports":[]},
 {"name":"flare.northAfrica.Argelia","size":19,"imports":["flare.colombia.Quindio"]},
