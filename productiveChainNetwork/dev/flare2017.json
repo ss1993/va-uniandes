@@ -25,6 +25,7 @@
 {"name":"flare.europe.Germany","size":25640,"imports":["flare.colombia.Antioquia","flare.colombia.Bogota","flare.colombia.Caldas","flare.colombia.Cauca","flare.colombia.Cundinamarca","flare.colombia.Huila","flare.colombia.Magdalena","flare.colombia.Narinio","flare.colombia.Quindio","flare.colombia.Risaralda","flare.colombia.Santander","flare.colombia.Tolima","flare.colombia.Valle"]},
 {"name":"flare.europe.Albania","size":19,"imports":["flare.colombia.Caldas"]},
 {"name":"flare.northAmerica.UnitedStates","size":16,"imports":[]},
+{"name":"flare.northAmerica.Aruba","size":18,"imports":["flare.colombia.Antioquia","flare.colombia.Atlantico","flare.colombia.Bogota","flare.colombia.Bolivar","flare.colombia.Risaralda"]},
 {"name":"flare.southAmerica.Peru","size":17,"imports":[]},
 {"name":"flare.southAmerica.Ecuador","size":18,"imports":[]},
 {"name":"flare.southAmerica.Brasil","size":19,"imports":[]},
