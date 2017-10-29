@@ -15,7 +15,9 @@
 {"name":"flare.colombia.Tolima","size":7,"imports":[]},
 {"name":"flare.colombia.Valle","size":92,"imports":["flare.southAmerica.Peru","flare.UnitedKinddom.UnitedKinddom"]},
 {"name":"flare.colombia.ZFP_Eje_Cafetero","size":743,"imports":[]},
+{"name":"flare.MidleEast.Saudi_Arabic","size":94,"imports":["flare.colombia.Quindio","flare.colombia.Risaralda","flare.colombia.Santander","flare.colombia.Valle"]},
 {"name":"flare.MidleEast.Libano","size":11,"imports":[]},
+{"name":"flare.northAfrica.Argelia","size":19,"imports":["flare.colombia.Quindio"]},
 {"name":"flare.UnitedKinddom.UnitedKinddom","size":12,"imports":[]},
 {"name":"flare.europe.Switchzeland","size":15,"imports":[]},
 {"name":"flare.europe.Spain","size":14,"imports":[]},
@@ -25,5 +27,6 @@
 {"name":"flare.northAmerica.UnitedStates","size":16,"imports":[]},
 {"name":"flare.southAmerica.Peru","size":17,"imports":[]},
 {"name":"flare.southAmerica.Ecuador","size":18,"imports":[]},
-{"name":"flare.southAmerica.Brasil","size":19,"imports":[]}
+{"name":"flare.southAmerica.Brasil","size":19,"imports":[]},
+{"name":"flare.southAmerica.Argentina","size":719,"imports":["flare.colombia.Bogota","flare.colombia.Caldas","flare.colombia.Cundinamarca","flare.colombia.Magdalena","flare.colombia.Quindio","flare.colombia.Risaralda","flare.colombia.Santander"]}
 ]
