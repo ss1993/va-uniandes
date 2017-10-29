@@ -22,7 +22,6 @@
 {"name":"flare.analytics.southamerica.Brasil","size":743,"imports":[]},
 {"name":"flare.analytics.southamerica.Ecuador","size":743,"imports":[]},
 {"name":"flare.analytics.southamerica.Peru","size":743,"imports":[]},
-{"name":"flare.analytics.nothamerica.UnitedStates","size":743,"imports":[]},
 {"name":"flare.animate.Easing","size":17010,"imports":["flare.animate.Transition"]},
 {"name":"flare.animate.FunctionSequence","size":5842,"imports":["flare.util.Maths","flare.animate.Transition","flare.util.Arrays","flare.animate.Sequence","flare.animate.Transitioner"]},
 {"name":"flare.animate.interpolate.ArrayInterpolator","size":1983,"imports":["flare.util.Arrays","flare.animate.interpolate.Interpolator"]},
