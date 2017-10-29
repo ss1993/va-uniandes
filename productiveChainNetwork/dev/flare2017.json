@@ -31,6 +31,8 @@
 {"name":"flare.europe.Spain","size":8092,"imports":["flare.colombia.Antioquia","flare.colombia.Bogota","flare.colombia.Bolivar","flare.colombia.Caldas","flare.colombia.Cauca","flare.colombia.Cundinamarca","flare.colombia.Huila","flare.colombia.Magdalena","flare.colombia.NorteDeSantander","flare.colombia.Quindio","flare.colombia.Risaralda","flare.colombia.Santander","flare.colombia.Tolima","flare.colombia.Valle"]},
 {"name":"flare.europe.Slovenia","size":327,"imports":["flare.colombia.Antioquia","flare.colombia.Caldas"]},
 {"name":"flare.europe.Italy","size":13,"imports":[]},
+{"name":"flare.europe.Finland","size":6617,"imports":["flare.colombia.Antioquia","flare.colombia.Bogota","flare.colombia.Caldas","flare.colombia.Cauca","flare.colombia.Cundinamarca","flare.colombia.Huila","flare.colombia.Magdalena","flare.colombia.Narinio","flare.colombia.Risaralda","flare.colombia.Santander","flare.colombia.Tolima","flare.colombia.Valle"]},
+{"name":"flare.europe.Estonia","size":15,"imports":["flare.colombia.Caldas","flare.colombia.Risaralda"]},
 {"name":"flare.europe.Denmark","size":964,"imports":["flare.colombia.Antioquia","flare.colombia.Bogota","flare.colombia.Caldas","flare.colombia.Cauca","flare.colombia.Risaralda","flare.colombia.Santander","flare.colombia.Valle"]},
 {"name":"flare.europe.Chipre","size":38,"imports":["flare.colombia.Cauca"]},
 {"name":"flare.europe.Germany","size":25640,"imports":["flare.colombia.Antioquia","flare.colombia.Bogota","flare.colombia.Caldas","flare.colombia.Cauca","flare.colombia.Cundinamarca","flare.colombia.Huila","flare.colombia.Magdalena","flare.colombia.Narinio","flare.colombia.Quindio","flare.colombia.Risaralda","flare.colombia.Santander","flare.colombia.Tolima","flare.colombia.Valle"]},
